@@ -1,0 +1,5 @@
+00000000: a5 a5 a5 a5 a5 a5 a5 a5  a5 a5 a5 a5 a5 a5 a5 a5 *................*
+00000010: a5 a5 a5 a5 a5 a5 a5 a5  a5 a5 a5 a5 a5 a5 a5 a5 *................*
+00000020: a5 a5 a5 a5 a5 a5 a5 a5  a5 a5 a5 a5 a5 a5 a5 a5 *................*
+Program too big.
+Usage: rv32i mem-size infile
